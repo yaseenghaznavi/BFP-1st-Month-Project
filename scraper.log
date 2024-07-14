@@ -1,0 +1,18 @@
+2024-07-14 21:33:27,687 - INFO - Data is successfully extracted.
+2024-07-14 21:33:27,737 - INFO - Data cleaned and converted.
+2024-07-14 21:33:27,742 - INFO - Data transformation completed.
+2024-07-14 21:33:28,851 - INFO - Data loaded to CSV file.
+2024-07-14 21:33:30,202 - INFO - package: mysql.connector.plugins
+2024-07-14 21:33:30,202 - INFO - plugin_name: caching_sha2_password
+2024-07-14 21:33:30,202 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-07-14 21:33:35,721 - INFO - Data loaded to MySQL database.
+2024-07-14 21:33:37,980 - INFO - Query executed: SELECT * FROM largestbanks WHERE `Market cap (US$ billion)` > 300
+2024-07-14 21:44:44,490 - INFO - Data is successfully extracted.
+2024-07-14 21:44:46,178 - INFO - Data cleaned and converted.
+2024-07-14 21:44:46,183 - INFO - Data transformation completed.
+2024-07-14 21:44:49,918 - INFO - Data loaded to CSV file.
+2024-07-14 21:44:51,273 - INFO - package: mysql.connector.plugins
+2024-07-14 21:44:51,273 - INFO - plugin_name: caching_sha2_password
+2024-07-14 21:44:51,273 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-07-14 21:45:10,345 - INFO - Data loaded to MySQL database.
+2024-07-14 21:45:14,380 - INFO - Query executed: SELECT * FROM largestbanks WHERE `Market cap (US$ billion)` > 300
